@@ -97,7 +97,7 @@ nav ul li a {
 ------ Text Center ------ */
 
 /* ------ Media Query ------ */
-@media (max-width: 580px) {
+@media (max-width: 520px) {
     nav ul {
         max-height: 0px;
         background: rgba(0,0,0,.2);
